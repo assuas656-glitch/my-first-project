@@ -19,5 +19,18 @@ int main (){
     return 0;
     }
     
+2*ternary operator
+=================
+#include<iostream>
+using namespace std;
+
+int main (){
+    int n=-24;
+    cout<<(n>=0 ? "positive" : "negative");
+    return 0;
+    }
+    
+
+
 
 
