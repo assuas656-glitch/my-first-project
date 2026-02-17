@@ -1,0 +1,23 @@
+if else if statement
+---------------------
+#include<iostream>
+using namespace std;
+
+int main (){
+    char ch;
+    
+    cout<<"enter the character";
+    cin>>ch;
+    if( ch >='a' && ch<='z'){
+        cout<<"this is a lower case";
+
+    }
+    else{
+        cout<<"this is upper case";
+
+    }
+    return 0;
+    }
+    
+
+
